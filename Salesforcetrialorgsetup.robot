@@ -11,7 +11,7 @@ Suite Teardown                  Close All Browsers
 
 *** Variables ***
 
-${email_address}                pkievit+122@copado.com
+${email_address}                himanshu8316sharma@gmail.com
 
 
 *** Test Cases ***
